@@ -1,2 +1,2 @@
-# Todolist-JS
+# Todo-js
 Created with CodeSandbox
